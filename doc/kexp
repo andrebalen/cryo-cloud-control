@@ -1,0 +1,3 @@
+toilet -F metal kexp
+echo .org 90.3 washington DC
+mplayer https://kexp-mp3-128.streamguys1.com/kexp128.mp3
